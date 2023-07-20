@@ -36,6 +36,8 @@ You have 2 hours (from 2.00pm to 4.00pm) to complete this assignment and submit 
 anything shared after 4.00pm will NOT be considered for grading.
 
 ## My Solution
+## A. Data Processing
+
 1. **Loaded the Assessment Dataset:**:  I used Pandas rad excel in Google Colab to load the Excel file containing the assessment dataset. The dataset consists of multiple sheets, each containing specific data related to the QIP and joining sessions.
 
 2. **Loaded Sheets into a Dictionary:** To efficiently handle multiple sheets, I organized the data into a dictionary, where the keys represent the sheet names, and the values are DataFrames containing the respective data for each sheet. This approach allows for easy access to specific data when needed for analysis.
@@ -50,7 +52,7 @@ anything shared after 4.00pm will NOT be considered for grading.
 
    <img width="682" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/5ecd5106-72d2-48ce-99ac-b7c4192cffdd">
 
-## Data Visualization and Presentation with Power BI 
+## B. Data Visualization and Presentation with Power BI 
 
 I loaded the cleansed dataset into Power BI, so I can create compelling data visualizations and interactive dashboards. This step enables me to showcase the analysis results and KPIs in a visually appealing and user-friendly manner.
 
@@ -61,7 +63,7 @@ I loaded the cleansed dataset into Power BI, so I can create compelling data vis
 <img width="868" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/3efa9291-8ac6-470a-8624-ad603652298c">
 
 3. **Creating Visualizations in Power BI:**  Developed data visualizations, such as bar charts, pie charts, and tables, to present the KPIs and insights effectively. customized the visuals to highlight key findings and make the presentation engaging.Organize the content logically and ensure it aligns with the business stakeholders' expectations.
-## Data Story Telling with Power BI 
+## C. Data Story Telling with Power BI 
 
  Page 1: **About Myself**
  
