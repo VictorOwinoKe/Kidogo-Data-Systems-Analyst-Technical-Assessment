@@ -58,28 +58,23 @@ I loaded the cleansed dataset into Power BI, so I can create compelling data vis
 
 1. **Calculated Conversion Rate and Collection Rate:** Utilized the cleaned datasets to calculate the conversion rate and collection rate for each community based on the KPIs  derived.
 
- <img width="861" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/f813a3c8-e8c5-405b-a046-000b8fa648b5">
-
-<img width="868" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/3efa9291-8ac6-470a-8624-ad603652298c">
+ <img width="641" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/fd6aaf50-a465-4f87-89c4-8ddf783f5490">
 
 3. **Creating Visualizations in Power BI:**  Developed data visualizations, such as bar charts, pie charts, and tables, to present the KPIs and insights effectively. customized the visuals to highlight key findings and make the presentation engaging.Organize the content logically and ensure it aligns with the business stakeholders' expectations.
 ## C. Data Story Telling with Power BI 
 
- Page 1: **About Myself**
- 
-<img width="842" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/3841adff-e120-4edd-8e69-4648089afc9b">
+ Page 1: **Conversion rate**
 
- Page 2: **Conversion rate**
+![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/de4fb38b-40f4-45a0-a73f-c314a8e7a840)
 
-<img width="577" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/95dd9d63-39af-4077-a3a2-3d20542a5004">
+Page 2: **Collection rate**
 
-Page 3: **Collection rate**
+![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/53858d22-cfec-4bf9-8218-4003600a1642)
 
-<img width="577" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/b44bbdf0-19ba-48ad-833e-16dba9b66fe6">
+Page 3:**Insights & Recommendations**
 
-Page 4:**Insights & Recommendations**
+![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/1b022661-0075-4914-a0aa-928e6e7a6121)
 
-<img width="576" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/181311cc-d6d2-4654-98bb-06adedbc967f">
 
 I am confident that the insights presented in the report and the Power BI presentation will aid the business stakeholders in making informed decisions to drive Kidogo's growth and success.
 
