@@ -38,6 +38,8 @@ anything shared after 4.00pm will NOT be considered for grading.
 ## My Solution
 ## A. Data Processing
 
+<img width="640" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/1b790abf-a7f3-404b-8fd0-4a6ab846025b">
+
 1. **Loaded the Assessment Dataset:**:  I used Pandas rad excel in Google Colab to load the Excel file containing the assessment dataset. The dataset consists of multiple sheets, each containing specific data related to the QIP and joining sessions.
 
 2. **Loaded Sheets into a Dictionary:** To efficiently handle multiple sheets, I organized the data into a dictionary, where the keys represent the sheet names, and the values are DataFrames containing the respective data for each sheet. This approach allows for easy access to specific data when needed for analysis.
@@ -52,29 +54,17 @@ anything shared after 4.00pm will NOT be considered for grading.
 
    <img width="682" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/5ecd5106-72d2-48ce-99ac-b7c4192cffdd">
 
-## B. Data Visualization and Presentation with Power BI 
 
-I loaded the cleansed dataset into Power BI, so I can create compelling data visualizations and interactive dashboards. This step enables me to showcase the analysis results and KPIs in a visually appealing and user-friendly manner.
+## B. Data Story Telling with Power BI 
 
-1. **Calculated Conversion Rate and Collection Rate:** Utilized the cleaned datasets to calculate the conversion rate and collection rate for each community based on the KPIs  derived.
+![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/79db2d7d-83df-47de-8b09-d65750c3f2f0)
 
- <img width="641" alt="image" src="https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/fd6aaf50-a465-4f87-89c4-8ddf783f5490">
+![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/a0d68e3b-38c5-460f-95de-c32eee0849ba)
 
-3. **Creating Visualizations in Power BI:**  Developed data visualizations, such as bar charts, pie charts, and tables, to present the KPIs and insights effectively. customized the visuals to highlight key findings and make the presentation engaging.Organize the content logically and ensure it aligns with the business stakeholders' expectations.
-## C. Data Story Telling with Power BI 
+![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/2bec5305-fabd-4e19-8024-45a5bf3f1b5e)
 
- Page 1: **Conversion rate**
 
-![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/de4fb38b-40f4-45a0-a73f-c314a8e7a840)
-
-Page 2: **Collection rate**
-
-![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/53858d22-cfec-4bf9-8218-4003600a1642)
-
-Page 3:**Insights & Recommendations**
-
-![image](https://github.com/VictorOwinoKe/Kidogo-Data-Systems-Analyst-Technical-Assessment/assets/56676033/1b022661-0075-4914-a0aa-928e6e7a6121)
-
+[Link to Live Dashboard](https://sites.google.com/kidogo.co/victor-owino-submission) - [Dashboard](https://sites.google.com/kidogo.co/victor-owino-submission)
 
 I am confident that the insights presented in the report and the Power BI presentation will aid the business stakeholders in making informed decisions to drive Kidogo's growth and success.
 
